@@ -221,43 +221,25 @@ h2{
 
 
 
-@media (max-width:900px){
+@media (max-width:700px){
   .hero{flex-direction:column;
     padding:0 12px
   }
   .hero-right{width:100%}
   .search{margin:0 10px}
 }
+
+@media (max-width:600px){
+  .product-grid{flex-direction:column; align-items:center; gap:20px;}
+}
+
 @media (max-width:520px){
   .topbar{padding:10px}
   .brand img{height:28px}
   .hero-right h1{font-size:22px}
   .hero-right{padding:20px}
-}
-@media (max-width:360px){
   .nav{font-size:13px; padding:8px 10px}
-}
-@media (max-width:280px){
-  .features{flex-direction:column; align-items:center}
-  .feature{width:100%; justify-content:center}
-}
-@media (max-width:240px){
   .header-actions{font-size:12px; gap:12px}
-}
-@media(max-width:1600px){
-  .brand-item{width:220px;}
-}
-@media (max-width:1400px){
-  .brand-item{width:200px;}
-}
-@media (max-width:1300px){
-  .brand-item{width:180px;}
-}
-@media (max-width:1200px){
-  .product-grid{gap:40px; justify-content:center;}
-}
-@media (max-width:600px){
-  .product-grid{flex-direction:column; align-items:center; gap:20px;}
 }
 @media (max-width:400px){
   .category img{width:100px; height:100px;}
