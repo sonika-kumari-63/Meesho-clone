@@ -3,10 +3,10 @@ A Meesho Clone created using HTML & CSS.
 This project replicates the core UI of Meesho—an Indian online shopping platform—featuring a hero banner, categories, brand sections, product grids, navigation bar, and responsive layout.
 
 <h2> Features</h2>
--Responsive Navigation Bar
--Brand logo
--Search bar
--Category navigation menu
+- Responsive Navigation Bar
+- Brand logo
+- Search bar
+- Category navigation menu
 
 <h2> Hero Section</h2>
 Large promotional banner
