@@ -3,10 +3,10 @@ A Meesho Clone created using HTML & CSS.
 This project replicates the core UI of Meesho—an Indian online shopping platform—featuring a hero banner, categories, brand sections, product grids, navigation bar, and responsive layout.
 
 <h2> Features</h2>
-- Responsive Navigation Bar
-- Brand logo
-- Search bar
-- Category navigation menu
+.Responsive Navigation Bar
+.Brand logo
+.Search bar
+.Category navigation menu
 
 <h2> Hero Section</h2>
 Large promotional banner
@@ -27,62 +27,35 @@ Fully responsive
 Brand cards with images
 Organized grid display
 Each section labeled
-
 Product Listing Grid
-
 4-column responsive product grid
-
 Many product cards
-
 Product image, name, price, delivery info
-
 Responsive down to very small screens
 
-🔹 Fully Responsive
-
+<h2>Fully Responsive</h2>
 Includes 20+ media queries for:
+ Very large screens
+ Tablets
+ Mobile screens
+ Extra-small devices
 
-Very large screens
-
-Tablets
-
-Mobile screens
-
-Extra-small devices
-
-🛠️ Technologies Used
+<h2>Technologies Used</h2>
 Technology	Purpose
 HTML5	Structural layout
 CSS3	Styling & responsive design
 Flexbox	For alignment and layout
 Media Queries	Full responsiveness
-📂 Folder Structure
-Meesho-Clone/
-│── index.html
-│── style.css
-│── /assets or /images
-│     ├── logo.png
-│     ├── hero.png
-│     ├── product images...
-│     ├── category images...
 
-▶️ How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/your-username/meesho-clone.git
-
-
-Navigate into the folder:
-
-cd meesho-clone
-
-
-Open the project:
-
-Click index.html, OR
-
-Run with Live Server (VS Code)
+<h2>Folder Structure</h2>
+Meesho-Clone
+  .index.html
+  .style.css
+assets or /images
+  .logo.png
+  .hero.png
+  .product images...
+  .category images...
 
 📌 UI Sections Explained
 1️⃣ Header + Navigation
@@ -131,7 +104,7 @@ Delivery label
 
 Auto-wrap responsive grid
 
-📱 Responsiveness
+Responsiveness
 
 This project includes thorough responsive behavior, covering:
 
