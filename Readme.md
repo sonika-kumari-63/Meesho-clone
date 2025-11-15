@@ -19,9 +19,15 @@ Cash on Delivery
 Lowest Prices
 
 <h2>Categories Section</h2>
-Multiple category blocks with icons
-Clean grid layout
-Fully responsive
+A responsive grid of category cards:
+Ethnic Wear
+Western Dresses
+Menswear
+Beauty
+Home Decor
+Accessories
+… more
+
 
 <h2>Original Brands Section</h2>
 Brand cards with images
@@ -38,7 +44,6 @@ Includes 20+ media queries for:
  Very large screens
  Tablets
  Mobile screens
- Extra-small devices
 
 <h2>Technologies Used</h2>
 Technology	Purpose
@@ -57,99 +62,75 @@ assets or /images
   .product images...
   .category images...
 
-📌 UI Sections Explained
-1️⃣ Header + Navigation
-
-Topbar with logo, search, and actions
-
-Scrollable navigation for product categories
-
-2️⃣ Hero Banner
-
-Full-width image background
-
-Bright overlay text and CTA button
-
-3️⃣ Features Row
-
-Highlighted with light background
-
-Flexbox layout
-
-4️⃣ Categories Grid
-
-Fashion, Beauty, Home Decor, etc.
-
-Image + title
-
-5️⃣ Brand Section
-
-Brand slabs with titles
-
-Central aligned layouts
-
-6️⃣ Products Grid
-
-20+ products
-
-Each card includes:
-
+<h2>Product Grid</h2>
+Multiple rows of product listings containing:
 Product image
-
-Product title
-
+Product name
 Price
-
-Delivery label
-
+Delivery text
+Card-based layout
 Auto-wrap responsive grid
 
-Responsiveness
+<h2>How the UI is Structured</h2>
+<h4> Header:</h4>
+Topbar with logo + search + actions
+Nav Menu (scrollable) with product categories
 
-This project includes thorough responsive behavior, covering:
+<h4> Hero Section</h4>
+Background image with filter
+Text overlay
+CTA button
 
-✔ Large desktops
-✔ Medium desktops
-✔ Tablets
-✔ Mobiles
-✔ Extra-small devices (even 240px screens)
 
-Special breakpoints include:
+<h4>Features Strip</h4>
+Flex layout
+Shadows + rounded boxes
 
-1600px
+<h4>Categories</h4>
+Each category: image + name
+Responsive wrapping grid
 
-1400px
+<h4>Original Brands Section</h4>
+5 Brand Cards
+Image + label
 
-1300px
 
-1200px
+<h4>Product Grid</h4>
+Each card includes:
+Product image
+Title
+Price
+Delivery info
+Box shadow + border radius
 
-900px
+<h2> Responsive Design</h2>
+Custom media query breakpoints:
 
-600px
+.At 700px
+Hero layout adjusts to fit small screens
+Input field spacing reduces
 
-520px
+.At 600px
+Product grid stacks into a single column
 
-400px
+.At 520px
+Navbar scales
+Text sizes reduce
+Logo size adjusts
 
-320px
+.At 400px
+Category images shrink to maintain layout
 
-280px
+<h2>What I Learned?</h2>
+Creating modern e-commerce UI layouts
 
-100px
+Managing large frontend sections
 
-...and more.
+Responsive layout control
 
-💡 What I Learned
+Building reusable card components
 
-Building large-scale UI layouts
+Structuring large HTML + CSS projects
 
-Structuring a professional e-commerce front page
+Improving attention to detail through UI cloning
 
-Handling multiple grid layouts
-
-Using Flexbox effectively
-
-Creating deep responsive layouts using many breakpoints
-
-UI cloning for improving frontend skills
