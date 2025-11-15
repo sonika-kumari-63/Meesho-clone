@@ -122,6 +122,7 @@ Logo size adjusts
 Category images shrink to maintain layout
 
 <h2>What I Learned?</h2>
+
 Creating modern e-commerce UI layouts
 
 Managing large frontend sections
